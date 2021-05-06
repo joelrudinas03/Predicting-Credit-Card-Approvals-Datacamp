@@ -1,2 +1,2 @@
-# Predicting-Credit-Card-Approvals-Datacamp
+# Predicting Credit Card-Approvals (Datacamp Project Solutions)
 Predicting Credit Card Approvals (Datacamp)
